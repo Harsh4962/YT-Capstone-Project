@@ -195,5 +195,5 @@ cython_debug/
 creds.txt
 notebooks/
 local_s3/
-data/
+
 models/
