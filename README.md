@@ -191,6 +191,45 @@ http://<external-loadbalancer-ip>:5000
 
 ---
 
+## 📸 Screenshots (Proof of Deployment)
+
+> All below screenshots are proofs of successful deployment and monitoring steps.
+
+### 🔹 App served via EKS Cluster  
+![App via EKS](screenshots/app-via-eks-cluster.png)
+
+---
+
+### 🔹 EKS Cluster Console  
+![EKS Cluster](screenshots/EKS-cluster.png)
+
+---
+
+### 🔹 MLflow Experiments (Tracked Parameters)  
+![MLflow Params](screenshots/experimenting_params.png)
+
+---
+
+### 🔹 MLflow Experiments (Vec vs Algo)  
+![MLflow Vec vs Algo](screenshots/experimenting_vec-vs-algo.png)
+
+---
+
+### 🔹 Grafana on EC2  
+![Grafana EC2](screenshots/grafana-ec2.png)
+
+---
+
+### 🔹 Kubernetes Node, Prometheus & Grafana EC2 instances 
+![Prometheus Node](screenshots/kubeNode-prom-graf.png)
+
+---
+
+### 🔹 Prometheus on EC2  
+![Prometheus EC2](screenshots/prometheus-ec2.png)
+
+---
+
 ## 🏆 Achievements
 
 * ✅ Fully automated ML pipeline with DVC
